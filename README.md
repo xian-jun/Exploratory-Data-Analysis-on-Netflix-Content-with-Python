@@ -1,6 +1,6 @@
 # Exploratory Data Analysis on Netflix Content with Python
 
-The dataset used in this analysis is titles.csvunder “Netflix TV Shows and Movies” retrieved from Kaggle (source: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-andmovies?select=titles.csv). The dataset contains a total of 15 unique columns and 5806 observations. Each row records the data of a show or a movie registered in the Netflix database that includes id, title, description, genres, production countries, age certifications, runtime, etc. 
+The dataset used in this analysis is titles.csvunder “Netflix TV Shows and Movies” retrieved from Kaggle (source: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-andmovies?select=titles.csv). Data uploaded as "titles.csv". The dataset contains a total of 15 unique columns and 5806 observations. Each row records the data of a show or a movie registered in the Netflix database that includes id, title, description, genres, production countries, age certifications, runtime, etc. 
 
 
 The dataset was chosen because it is extensive, structured and complete but still requires some data cleaning and preparation required by the group project. Extensive analysis is carried out on the dataset to help executives in Netflix to customise the platform’s future content accordingly. In the case of machine learning, The dataset also allows us to conduct clustering analysis.
