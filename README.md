@@ -7,6 +7,7 @@ The dataset was chosen because it is extensive, structured and complete but stil
 
 This project covers data cleaning and wrangling, exploratory analytics, visualisation and machine learning using pandas, numpy, matplotlib, seaborn and scikit-learn. 
 <br>
+<br>
 
 ## Research Questions
 
